@@ -21,7 +21,7 @@ This project is focused on analyzing the Google Play Store dataset to gain insig
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Gomukha30/Google-Playstore-App-Analytics
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -43,10 +43,3 @@ The dataset used in this project contains information about various apps availab
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for any bugs or suggestions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can modify the content as needed before uploading to GitHub.
