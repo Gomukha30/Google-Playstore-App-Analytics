@@ -17,29 +17,5 @@ This project is focused on analyzing the Google Play Store dataset to gain insig
 - **Matplotlib & Seaborn**: For data visualization.
 - **Scikit-learn**: For potential machine learning models (if applicable in the analysis).
 
-## How to Use
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Gomukha30/Google-Playstore-App-Analytics
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd repo-name
-   ```
-3. **Run the Jupyter Notebook**:
-   Open the `.ipynb` file using Jupyter Notebook or Jupyter Lab to view and execute the code.
-
-## Dataset
-
-The dataset used in this project contains information about various apps available on the Google Play Store, including ratings, reviews, categories, and more.
-
-## Future Work
-
-- Enhance the analysis by including machine learning models for predicting app ratings or categories.
-- Expand the EDA section with more in-depth analysis.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue for any bugs or suggestions.
 
